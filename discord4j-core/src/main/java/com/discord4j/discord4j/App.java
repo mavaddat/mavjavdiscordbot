@@ -8,7 +8,6 @@ import discord4j.core.event.domain.message.MessageCreateEvent;
 import discord4j.core.object.entity.Message;
 import reactor.core.publisher.Mono;
 import org.identityconnectors.common.security.GuardedString;
-import com.discord4j.discord4j.AuthToken;
 
 /**
  * Hello world!
