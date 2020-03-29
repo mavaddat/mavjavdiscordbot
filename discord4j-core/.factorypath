@@ -1,4 +1,6 @@
 <factorypath>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/syncope/identityconnectors/framework/0.4.3/framework-0.4.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/syncope/identityconnectors/framework-internal/0.4.3/framework-internal-0.4.3.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/com/discord4j/discord4j-core/3.1.0.TEST-SNAPSHOT/discord4j-core-3.1.0.TEST-SNAPSHOT.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/com/discord4j/discord4j-rest/3.1.0.TEST-SNAPSHOT/discord4j-rest-3.1.0.TEST-SNAPSHOT.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/com/discord4j/discord4j-common/3.1.0.TEST-SNAPSHOT/discord4j-common-3.1.0.TEST-SNAPSHOT.jar" enabled="true" runInBatchMode="false"/>
